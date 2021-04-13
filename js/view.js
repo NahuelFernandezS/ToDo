@@ -1,3 +1,4 @@
+//Vista
 export default class View{
     constructor(){
         this.model = null;

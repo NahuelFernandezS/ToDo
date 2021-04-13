@@ -1,3 +1,4 @@
+//Modelo
 export default class Model{
 
     constructor(){

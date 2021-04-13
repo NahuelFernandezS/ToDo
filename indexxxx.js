@@ -1,4 +1,4 @@
-//Deja que cargue todo el html,css
+//Deja que cargue todo el html,cs
 
 document.addEventListener("DOMContentLoaded", function () {
   const _title = document.getElementById("title");

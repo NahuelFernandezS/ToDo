@@ -3,7 +3,7 @@ import Model from './model.js';
 import View from './view.js';
 
 
-//Deja que cargue todo el html,css
+//Deja que cargue todo el html,csss
 
 document.addEventListener("DOMContentLoaded", () => {
 
